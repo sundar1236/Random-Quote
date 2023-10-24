@@ -1,0 +1,49 @@
+body, html{
+  height: 100%;
+  margin: 0;
+  background-image: url("https://images.pexels.com/photos/747964/pexels-photo-747964.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"); 
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: 'Raleway', sans-serif;
+}
+h1{
+  padding-top: 40px;
+  font-size: 40px;
+}
+.btn{
+  margin-top: 10px;
+}
+.get-quote{
+  margin-right: 12px;
+  
+}
+
+.quotes{
+  background-color: #eff1f4;
+  width: 33%;
+  margin-right: auto;
+  margin-left: auto;
+  border-radius: 6px;
+  padding: 10px;
+  height: auto;
+  
+}
+
+#quote{
+  font-size: 18px;
+}
+#author{
+  font-size: 15px;
+  font-style: italic;
+  font-weight: bold; 
+}
+
+.written{ 
+    bottom: 0%;
+    position: fixed;
+    color: #FFF;
+    margin-left: .5%;
+    margin-bottom: .2%;
+    font-size: 75%; 
+}
